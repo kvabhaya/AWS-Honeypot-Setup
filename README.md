@@ -24,7 +24,7 @@ This project sets up a lightweight SSH/Telnet honeypot using [Cowrie](https://gi
 
    ```bash
    ssh -i your-key.pem ubuntu@<EC2-PUBLIC-IP>
-````
+   ```
 
 ---
 
