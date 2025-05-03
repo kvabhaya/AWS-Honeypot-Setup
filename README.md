@@ -9,7 +9,7 @@ This guide walks you through setting up a secure environment, installing common 
 ### ✅ Update the System
 ```bash
 sudo apt update && sudo apt upgrade -y
-
+````
 
 ### ✅ Create a Non-Root User (Recommended)
 
@@ -212,6 +212,7 @@ This setup is **for educational and research purposes only**. Unauthorized deplo
 
 ## ✍️ Author
 
-Your Name - [GitHub Profile](https://github.com/kvabhaya)
+[Kokila Abhayasundara](https://github.com/kvabhaya)
 
 ```
+
