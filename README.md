@@ -1,4 +1,3 @@
-````markdown
 # 🐍 Cowrie SSH/Telnet Honeypot Deployment on Ubuntu
 
 This guide walks you through setting up a secure environment, installing common security tools, deploying Cowrie as an SSH/Telnet honeypot, and monitoring activity. Designed for educational and research purposes.
@@ -10,7 +9,7 @@ This guide walks you through setting up a secure environment, installing common 
 ### ✅ Update the System
 ```bash
 sudo apt update && sudo apt upgrade -y
-````
+
 
 ### ✅ Create a Non-Root User (Recommended)
 
